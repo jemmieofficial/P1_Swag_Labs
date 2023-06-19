@@ -19,6 +19,9 @@ WebElement txt_password;
 @FindBy(xpath="//input[@id='login-button']")	
 WebElement btn_login;
 
+@FindBy(xpath="//div[@class='login_logo']")
+WebElement lp_logo;
+
 public void setUsername(String uname)
 {
 	txt_username.sendKeys(uname);
@@ -44,5 +47,9 @@ public void clickLogin()
 	btn_login.click();
 }
 
+public boolean logoCheck()
+{
+	return lp_logo.isDisplayed();
+}
 
 }

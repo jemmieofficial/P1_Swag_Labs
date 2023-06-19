@@ -17,6 +17,9 @@ WebElement btn_menu;
 @FindBy(xpath="//a[@id='logout_sidebar_link']")	
 WebElement btn_logout;
 
+@FindBy(xpath="//div[@class='app_logo']")
+WebElement hp_logo;
+
 public void clickMenu()
 {
 	btn_menu.click();
@@ -27,5 +30,9 @@ public void clickLogout()
 	btn_logout.click();
 }
 
+public boolean logoCheck()
+{
+	return hp_logo.isDisplayed();
+}
 
 }

@@ -16,4 +16,11 @@
     </classes>
   </test> 
   
+  <test thread-count="5" name="Firefox_Test">
+	  <parameter name="browser" value="firefox"></parameter>
+    <classes>
+      <class name="testCase.TC_001_LoginTest"/>
+    </classes>
+  </test> 
+  
 </suite> <!-- Suite -->

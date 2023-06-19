@@ -1,0 +1,276 @@
+06:42:28.698 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:42:29.111 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:42:29.392 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:42:29.478 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:42:29.624 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:42:32.789 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:42:32.827 [main] INFO  testCase.TC_001_LoginTest - login is successful
+06:42:47.912 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:42:48.038 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:42:48.294 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:42:48.412 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:42:48.675 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:42:51.997 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:42:52.073 [main] INFO  testCase.TC_001_LoginTest - login is successful
+06:42:52.305 [main] INFO  testCase.TC_001_LoginTest - menu button is clicked
+06:42:52.497 [main] INFO  testCase.TC_001_LoginTest - logout button is clicked
+06:42:52.647 [main] INFO  testCase.TC_001_LoginTest - logout is successful
+06:42:52.649 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:42:52.765 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:42:52.942 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:42:53.021 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:42:53.159 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:42:56.268 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:42:56.279 [main] INFO  testCase.TC_001_LoginTest - login is successful
+06:43:32.094 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:43:32.230 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:43:32.448 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:43:32.568 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:43:32.739 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:43:36.150 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:43:36.169 [main] INFO  testCase.TC_001_LoginTest - login is successful
+06:43:51.219 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:43:51.319 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:43:51.750 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:43:51.850 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:43:52.034 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:43:55.773 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:43:55.860 [main] INFO  testCase.TC_001_LoginTest - login is successful
+06:43:56.014 [main] INFO  testCase.TC_001_LoginTest - menu button is clicked
+06:43:56.286 [main] INFO  testCase.TC_001_LoginTest - logout button is clicked
+06:43:56.444 [main] INFO  testCase.TC_001_LoginTest - logout is successful
+06:43:56.446 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:43:56.838 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:43:56.987 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:43:57.064 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:43:57.208 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:44:00.319 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:44:00.333 [main] INFO  testCase.TC_001_LoginTest - login is successful
+06:44:38.700 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:44:38.824 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:44:39.070 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:44:39.100 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:44:39.183 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:44:42.441 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:44:42.448 [main] INFO  testCase.TC_001_LoginTest - login is successful
+06:44:57.522 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:44:57.589 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:44:57.712 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:44:57.742 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:44:57.841 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:45:01.190 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:45:01.195 [main] INFO  testCase.TC_001_LoginTest - login is successful
+06:45:01.439 [main] INFO  testCase.TC_001_LoginTest - menu button is clicked
+06:45:01.691 [main] INFO  testCase.TC_001_LoginTest - logout button is clicked
+06:45:01.749 [main] INFO  testCase.TC_001_LoginTest - logout is successful
+06:45:01.752 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:45:01.773 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:45:01.821 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:45:01.841 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:45:01.886 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:45:05.128 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:45:05.133 [main] INFO  testCase.TC_001_LoginTest - login is successful
+06:57:19.559 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:57:19.722 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:57:19.875 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:57:19.948 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:57:20.102 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:57:23.244 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:57:38.289 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:57:38.392 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:57:38.632 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:57:38.740 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:57:38.973 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:57:42.269 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:57:42.443 [main] INFO  testCase.TC_001_LoginTest - login button is succesful
+06:57:42.610 [main] INFO  testCase.TC_001_LoginTest - menu button is clicked
+06:57:42.791 [main] INFO  testCase.TC_001_LoginTest - logout button is clicked
+06:57:42.877 [main] INFO  testCase.TC_001_LoginTest - logout is successful
+06:57:42.879 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:57:42.976 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:57:43.148 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:57:43.242 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:57:43.408 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:57:46.506 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:58:07.813 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:58:07.954 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:58:08.140 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:58:08.231 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:58:08.426 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:58:11.581 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:58:26.625 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:58:26.696 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:58:26.861 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:58:26.922 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:58:27.070 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:58:30.270 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:58:30.384 [main] INFO  testCase.TC_001_LoginTest - login button is succesful
+06:58:30.496 [main] INFO  testCase.TC_001_LoginTest - menu button is clicked
+06:58:30.673 [main] INFO  testCase.TC_001_LoginTest - logout button is clicked
+06:58:30.727 [main] INFO  testCase.TC_001_LoginTest - logout is successful
+06:58:30.730 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:58:30.820 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:58:30.944 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:58:31.005 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:58:31.119 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:58:34.208 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:58:59.391 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:58:59.457 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:58:59.592 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:58:59.624 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:58:59.831 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:59:03.086 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:59:18.104 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:59:18.161 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:59:18.259 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:59:18.286 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:59:18.368 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:59:21.751 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+06:59:22.236 [main] INFO  testCase.TC_001_LoginTest - login button is succesful
+06:59:22.613 [main] INFO  testCase.TC_001_LoginTest - menu button is clicked
+06:59:22.859 [main] INFO  testCase.TC_001_LoginTest - logout button is clicked
+06:59:22.899 [main] INFO  testCase.TC_001_LoginTest - logout is successful
+06:59:22.902 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+06:59:22.923 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+06:59:22.966 [main] INFO  testCase.TC_001_LoginTest - Username passed
+06:59:22.991 [main] INFO  testCase.TC_001_LoginTest - password cleared
+06:59:23.035 [main] INFO  testCase.TC_001_LoginTest - password passed
+06:59:26.292 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:13:10.682 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:13:11.629 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:13:11.789 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:13:11.870 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:13:12.004 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:13:15.126 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:13:30.198 [main] INFO  testCase.TC_001_LoginTest - login is unsuccessful
+07:13:30.208 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:13:30.340 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:13:30.616 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:13:30.792 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:13:31.037 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:13:34.381 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:13:34.617 [main] INFO  testCase.TC_001_LoginTest - login is succesful
+07:13:34.801 [main] INFO  testCase.TC_001_LoginTest - menu button is clicked
+07:13:34.973 [main] INFO  testCase.TC_001_LoginTest - logout button is clicked
+07:13:35.063 [main] INFO  testCase.TC_001_LoginTest - logout is successful
+07:13:35.069 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:13:35.183 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:13:35.342 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:13:35.460 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:13:35.639 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:13:38.744 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:13:53.775 [main] INFO  testCase.TC_001_LoginTest - login is unsuccessful
+07:14:00.029 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:14:00.143 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:14:00.299 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:14:00.365 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:14:00.502 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:14:03.727 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:14:18.772 [main] INFO  testCase.TC_001_LoginTest - login is unsuccessful
+07:14:18.774 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:14:18.845 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:14:19.002 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:14:19.067 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:14:19.213 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:14:22.483 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:14:22.579 [main] INFO  testCase.TC_001_LoginTest - login is succesful
+07:14:22.706 [main] INFO  testCase.TC_001_LoginTest - menu button is clicked
+07:14:22.880 [main] INFO  testCase.TC_001_LoginTest - logout button is clicked
+07:14:22.956 [main] INFO  testCase.TC_001_LoginTest - logout is successful
+07:14:22.960 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:14:23.045 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:14:23.167 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:14:23.227 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:14:23.336 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:14:26.422 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:14:41.440 [main] INFO  testCase.TC_001_LoginTest - login is unsuccessful
+07:14:51.130 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:14:51.198 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:14:51.344 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:14:51.360 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:14:51.433 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:14:54.683 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:15:09.709 [main] INFO  testCase.TC_001_LoginTest - login is unsuccessful
+07:15:09.711 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:15:09.768 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:15:09.875 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:15:09.909 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:15:09.991 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:15:13.332 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:15:13.375 [main] INFO  testCase.TC_001_LoginTest - login is succesful
+07:15:13.608 [main] INFO  testCase.TC_001_LoginTest - menu button is clicked
+07:15:13.857 [main] INFO  testCase.TC_001_LoginTest - logout button is clicked
+07:15:13.902 [main] INFO  testCase.TC_001_LoginTest - logout is successful
+07:15:13.906 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:15:13.940 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:15:14.107 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:15:14.134 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:15:14.184 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:15:17.427 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:15:32.446 [main] INFO  testCase.TC_001_LoginTest - login is unsuccessful
+07:25:11.041 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:25:11.204 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:25:11.368 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:25:11.445 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:25:11.578 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:25:14.699 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:25:29.773 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:25:29.884 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:25:30.137 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:25:30.258 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:25:30.480 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:25:33.873 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:25:34.054 [main] INFO  testCase.TC_001_LoginTest - login is successful
+07:25:34.249 [main] INFO  testCase.TC_001_LoginTest - menu button is clicked
+07:25:34.423 [main] INFO  testCase.TC_001_LoginTest - logout button is clicked
+07:25:34.514 [main] INFO  testCase.TC_001_LoginTest - logout is successful
+07:25:34.518 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:25:34.626 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:25:34.798 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:25:34.887 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:25:35.052 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:25:38.145 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:25:59.416 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:25:59.760 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:25:59.912 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:25:59.987 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:26:00.146 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:26:03.250 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:26:18.325 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:26:18.394 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:26:18.551 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:26:18.614 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:26:18.754 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:26:22.052 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:26:22.153 [main] INFO  testCase.TC_001_LoginTest - login is successful
+07:26:22.285 [main] INFO  testCase.TC_001_LoginTest - menu button is clicked
+07:26:22.426 [main] INFO  testCase.TC_001_LoginTest - logout button is clicked
+07:26:22.481 [main] INFO  testCase.TC_001_LoginTest - logout is successful
+07:26:22.484 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:26:22.547 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:26:22.666 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:26:22.730 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:26:22.846 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:26:25.945 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:26:52.278 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:26:52.341 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:26:52.473 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:26:52.491 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:26:52.572 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:26:55.825 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:27:10.849 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:27:10.903 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:27:10.999 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:27:11.030 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:27:11.110 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:27:14.462 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
+07:27:14.541 [main] INFO  testCase.TC_001_LoginTest - login is successful
+07:27:14.781 [main] INFO  testCase.TC_001_LoginTest - menu button is clicked
+07:27:15.035 [main] INFO  testCase.TC_001_LoginTest - logout button is clicked
+07:27:15.077 [main] INFO  testCase.TC_001_LoginTest - logout is successful
+07:27:15.079 [main] INFO  testCase.TC_001_LoginTest -  ***** Test started for TC_001_LoginTest *****
+07:27:15.098 [main] INFO  testCase.TC_001_LoginTest - Username cleared
+07:27:15.150 [main] INFO  testCase.TC_001_LoginTest - Username passed
+07:27:15.169 [main] INFO  testCase.TC_001_LoginTest - password cleared
+07:27:15.226 [main] INFO  testCase.TC_001_LoginTest - password passed
+07:27:18.466 [main] INFO  testCase.TC_001_LoginTest - login button is clicked
